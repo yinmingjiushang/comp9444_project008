@@ -1,4 +1,5 @@
 # langchain 调用 deepseek
+# 自己写，在trace有报错
 
 import os
 from dotenv import load_dotenv

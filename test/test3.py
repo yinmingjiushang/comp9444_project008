@@ -1,5 +1,5 @@
 # langchain 调用 deepseek api + langsmith trace
-# syccess
+# gpt1o生成 syccess
 # Todo: 加入评估分析
 
 
